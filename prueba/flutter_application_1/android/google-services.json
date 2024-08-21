@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058859980135",
+    "project_id": "bullsapp-3dd6b",
+    "storage_bucket": "bullsapp-3dd6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058859980135:android:2f2c316c3a25df3b62cbc2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfsQZB-JL2WDU3vsGi1CmC1j7HcdbmYss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
